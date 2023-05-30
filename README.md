@@ -9,14 +9,14 @@ I have worked on several wireframes to outline the possible layout of my site an
 
 The first thing I did was create a few pen and paper wireframe sketches to get out all my ideas.
 
-![Wireframe Preliminary Sketches](wireframes/WireframesPreliminarySketch.png)
+![Wireframe Preliminary Sketches](wireframes/Wireframes%20Preliminary%20Sketch.png)
 
 After sketching out ideas, I created more detailed wireframes for my website using Adobe Illustrator. 
 
 
 **Homepage**
 
-![wireframe of Homepage](wireframes/WireframesHomepage.png)
+![wireframe of Homepage](wireframes/Wireframes%20Homepage.png) 
 
 Header- will include my logo and navigation menu
 
@@ -31,7 +31,7 @@ Footer- will include copyright information
 
 **Storytime Page**
 
-![wireframe of Storytime](wireframes/WireframesStorytimeThemes.png)
+![wireframe of Homepage](wireframes/Wireframes%20Storytime%20Themes.png)
 
 Header- will include my logo and navigation menu
 
@@ -44,7 +44,7 @@ Footer- will include copyright information
 
 **True Crime Club Page**
 
-![wireframe of TrueCrime](wireframes/WireframesTrueCrime.png)
+![wireframe of Homepage](wireframes/Wireframes%20True%20Crime.png)
 
 Header- will include my logo and navigation menu
 
@@ -57,7 +57,7 @@ Footer- will include copyright information
 
 **Book Talk Page**
 
-![wireframe of Book Talk](wireframes/WireframesBookTalks.png)
+![wireframe of Homepage](wireframes/Wireframes%20Book%20Talks.png)
 
 Header- will include my logo and navigation menu
 
