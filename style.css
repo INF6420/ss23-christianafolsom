@@ -255,10 +255,57 @@ address {
     font-style: normal;
 }
 
+label{
+    display:block;
+    font-weight: 700;
+    margin: botton 0.5em;
+}
+.form-imput {
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    padding:1em;
+    margin-bottom:1.5em;
+    width:100%
+}
+ .form-imput:focus {
+    outline:none;
+    border: 2px solid #66ccaa;
+ }
 
+
+ [type="submit"] {
+    background: #95e8cc;
+    width:75%;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.25;
+    font-weight: 700;
+    font-family:'Poppins';
+    padding: .5em;
+    cursor: pointer;
+ }
+
+ [type="submit"]:hover,
+  [type="submit"]:focus {
+    background: #66ccaa;
+  }
+
+  textarea {
+    resize:vertical;
+  }
+
+  .error {
+    border-color: #C62828;
+  }
+
+  .error-message{
+    color:#C62828;
+    margin:-2em 0 1.5em;
+  }
 main {
     padding: 1rem  1rem 2rem;
 }
+
 
 .homepagesidebar1 {
     list-style-type: none; 
@@ -281,7 +328,7 @@ main {
     padding: 25px 10px 10px;
     margin: 10px;
     background-color: #66ccaa;
-    max-width: 150px;
+    max-width: 200px;
     float: right;
     clear:both;
     text-align: center; 
