@@ -51,6 +51,7 @@ img {
     font-family:'Poppins';
     color:#2B5547;
     font-size:xx-small;
+    padding-top: 5px;
     /* Contrast Ratio = 4.68:1 */ 
 }
 
@@ -60,6 +61,13 @@ img {
 }
 
 .Section2 {
+    padding: 0px 0px 15px 15px;
+    font-size: x-small;
+}
+
+.adultlist {
+    list-style-type: none;
+    list-style-position: outside;
     padding: 0px 0px 15px 15px;
     font-size: x-small;
 }
@@ -95,16 +103,24 @@ footer {
 }
 
 
-.middleseximage {
+.booktalkimage {
     padding: 25px 0px 0px;
     margin:0px 10px ;
     width: 100px;
     float:left;
 }
 
-.middlesexp {
+.booktalkp {
     font-size: x-small;
 }
+
+.adultimage {
+    padding: 0px 0px 0px;
+    margin:0px 10px ;
+    width: 100px;
+    float:left;
+}
+
 
 .starraiting {
     float:left;
@@ -183,6 +199,14 @@ footer {
         font-size:medium;
     }
 
+    .adultlist {
+        list-style-type: none;
+        list-style-position: outside;
+        padding: 0px 0px 15px 15px;
+        font-size:medium;
+        
+    }
+
     .Heading1{
         font-family:'Poppins';
         color:#3F735E;
@@ -194,6 +218,7 @@ footer {
         font-family:'Poppins';
         color:#2B5547;
         font-size:medium;
+        padding-top: 20px;
         /* Contrast Ratio = 4.68:1 */ 
     }
 
@@ -222,18 +247,26 @@ footer {
     }
     
     
-    .middleseximage {
+    .booktalkimage {
         padding: 25px 0px 0px;
         margin:0px 10px ;
         width: 150px;
         float:left;
     }
     
-    .middlesexp {
+    .booktalkp {
         padding: 25px 0px 0px;
         font-size:medium;
     }
     
+    .adultimage {
+        padding: 0px 0px 0px;
+        margin:0px 10px ;
+        width: 100px;
+        float:left;
+    }
+    
+
     .starraiting {
         float:left;
         clear:both;
